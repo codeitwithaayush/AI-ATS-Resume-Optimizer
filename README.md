@@ -14,7 +14,7 @@ A high-performance resume analysis tool built with **Streamlit** and **Groq (Lla
 - **Parsing:** PyPDF2, python-docx
 
 ## 🚀 How to Run
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/AI-ATS-Resume-Optimizer.git`
+1. Clone the repo: `git clone https://github.com/codeitwithaayush/AI-ATS-Resume-Optimizer.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the app: `streamlit run main.py`
 4. Enter your Groq API Key in the sidebar.
